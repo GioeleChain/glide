@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <image id="image_1" width="32" height="32" p3:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAhFBMVEUAAAAAs4AAu4gAuooAvIYAt4kAtYYAuIoAu4gAuYkAuYcAuogAuIgAuYgAuogAuIgAuYgAuYgAuYgAuokAuYgAuYgAuogAuYgAuogAuYgAuIj////n+fTc9e/P8unA7uKx6tuo59Z02b5c0rNEzKgwxp4YwJMWv5IRvpANvI4LvI0AuYhedzcTAAAAG3RSTlMACg8lJicmMlpbW42NnJ6fzM3U6+zt9vf6+/2cnfiHAAABBUlEQVR42oXT2a6DIBSF4SXW6qniiHNrh1PtsN///UqIIVqVfjcQ8pMQAoDGPJ7kTSNifmBY2oUlaUXkYM4KapqpfAsTdkoLqQ3NzWiFcPV+QasyG4qV0obUUoFP0vP/y5OkAJJTkdS3X3qS6h2AiLYDCgFWmIKS4Y+U1105te3prrxI8cBpqmvbjqY4YnOQQOj5exiG8/F4lsNbL+Zo9PymjqaOe9OLze8gNwcCiTmIwc0Bh2cODmClKSgYENLo0ff9pesucnjQKAKwr7dvsnIgBduBv3hy1667Lp4c7IxWCRsjV9CKzP35cSYsv6KZOrAw50QFaWW4xxI78Fg0TZ5wb/L9P/RdeAzvi0G/AAAAAElFTkSuQmCC" xmlns:p3="http://www.w3.org/1999/xlink" />
+    <pattern id="pattern_2" width="2" height="2">
+      <use p4:href="#image_1" xmlns:p4="http://www.w3.org/1999/xlink" />
+    </pattern>
+  </defs>
+  <rect width="32" height="32" fill="url(#pattern_2)" fill-rule="evenodd" />
+</svg>
